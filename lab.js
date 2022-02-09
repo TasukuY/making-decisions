@@ -130,7 +130,7 @@ let passingScore = 7
 */
 
 //CODE HERE
-while(score < 7){
+while(score < passingScore){
   console.log(`Your score ${score} is not high enough`)
   score++
 }
